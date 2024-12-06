@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mercadopago": "^2.1.0",
+    "typescript": "^5.7.2"
+  }
+}
